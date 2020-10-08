@@ -15,3 +15,4 @@ Pre-requisites.
 7.  Everyday you can just run the batch file and verify the output. No need to login to all the storage.
 8.  Optionally configure the batch file in Windows task scheduler to run at your specific schedules so that you dont even need to start the script manually.
 9.  You can just verify the HC file everyday if the task is scheduled in task scheduler.
+10. Just create a common user with only monitor permissions on all the storage devices and use the credentials for performing daily HC.
